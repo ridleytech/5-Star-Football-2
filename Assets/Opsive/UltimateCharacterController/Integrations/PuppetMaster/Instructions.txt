@@ -1,0 +1,5 @@
+
+
+1. Import UCC, run the UCC Installer from Tools/Opsive/Ultimate Character Controller/Installer.
+2. Import PuppetMaster.
+3. Run Tools/Opsive/PuppetMaster-UCC Setup, follow the guide from there.
